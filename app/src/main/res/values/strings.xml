@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="age">AGE</string>
+    <string name="feet">Feet</string>
+    <string name="inches">Inches</string>
+    <string name="calculate">Calculate</string>
+    <string name="_23_6_you_are_fit">23.6 you are fit</string>
+    <string name="weight">Weight</string>
+    <string name="app_by_falkenbeast">App By Falkenbeast</string>
+</resources>
