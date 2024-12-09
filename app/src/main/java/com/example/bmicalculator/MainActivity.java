@@ -120,11 +120,7 @@ public class MainActivity extends AppCompatActivity {
 
         }
         rest.setText("BMI: " + bmics);
-
-
-
     }
-
 
     private void displayguid(double bmic) {
         DecimalFormat dm = new DecimalFormat("0.00");
